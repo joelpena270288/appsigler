@@ -1,0 +1,1 @@
+import{Q as o}from"./QPage.2fc420a1.js";import"./axios.23aa70c0.js";import{_ as r,o as e,c as t}from"./index.ef228992.js";import"./browser.b493a193.js";import"./js.cookie.f93afda9.js";const a={name:"DashboardPage"};function s(c,i,n,p,m,d){return e(),t(o,{class:"window-height window-width row justify-center items-center"})}var l=r(a,[["render",s]]);export{l as default};
